@@ -23,3 +23,5 @@ Replit is an online integrated development environment (IDE) that allows you to 
 4. Click `Import from GitHub` button
 5. After the initialization completes, click `Run`
 
+## License
+[MIT License](https://github.com/olivrg/chatGPT-todo-list-plugin/blob/main/LICENSE)
